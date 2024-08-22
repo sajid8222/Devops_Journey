@@ -35,4 +35,10 @@ Stay tuned for updates, as I'll be adding more content regularly! 🔄
   ```bash
   git clone https://github.com/your-username/devops-bootcamp.git
   cd devops-bootcamp
+# YouTube Learning Series
+I'm following a great YouTube series to learn DevOps concepts. You can check it out here:
 
+Watch the DevOps Bootcamp on YouTube 📺
+https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=1
+
+This playlist covers everything from the basics to advanced DevOps topics. I highly recommend following along!
