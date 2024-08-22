@@ -1,7 +1,7 @@
 # Day 1: Fundamentals of DevOps
 
 ## Overview
-On the first day of learning, we covered the fundamentals of DevOps, focusing on the evolution from traditional software development and deployment processes to a more automated and efficient DevOps approach.
+On the first day of learning, I covered the fundamentals of DevOps, focusing on the evolution from traditional software development and deployment processes to a more automated and efficient DevOps approach.
 
 ## Key Points
 
