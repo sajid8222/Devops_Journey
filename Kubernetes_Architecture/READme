@@ -1,4 +1,4 @@
-# Kubernetes Architecture Overview ☸️
+**Kubernetes Architecture Overview** ☸️
 
 This repository provides a comprehensive overview of Kubernetes architecture, focusing on the components of the **Control Plane** and **Data Plane**, and explaining why Kubernetes is a powerful platform for managing containerized applications at scale.
 
