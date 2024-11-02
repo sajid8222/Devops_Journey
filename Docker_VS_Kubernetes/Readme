@@ -1,6 +1,6 @@
 
 
-# Docker vs Kubernetes: Addressing Container Orchestration Challenges 🐳 vs ☸️
+#Docker vs Kubernetes: Addressing Container Orchestration Challenges 🐳 vs ☸️
 This repository documents the limitations of Docker as a standalone container platform and explains how Kubernetes overcomes these limitations to provide a more robust, scalable, and production-ready solution.
 
 🐳 Docker Issues
